@@ -7,6 +7,8 @@ My name is Florian David. I'm a student in Computer Science, Master 2 in France,
 
 You can see [my profile page](https://fr.linkedin.com/in/florian-david-371749106) on LinkedIn
 
+=============================================
+
 ### These are my main programs on GitHub :
 
 + [Forest fire simulation automaton](https://theguysbrushes.github.io/incendie/). Developed in C++, with Qt.
